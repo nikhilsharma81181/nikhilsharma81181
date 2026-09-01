@@ -174,20 +174,9 @@ What is public here is side work. Every repo opens by stating what actually runs
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nikhilsharma81181&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&icon_color=2EA043&title_color=2EA043" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsharma81181&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&icon_color=1a7f4f&title_color=1a7f4f" alt="GitHub stats" height="170" />
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nikhilsharma81181&hide_border=true&theme=github-dark&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" />
   <img src="https://streak-stats.demolab.com?user=nikhilsharma81181&hide_border=true&theme=default&ring=1a7f4f&fire=1a7f4f&currStreakLabel=1a7f4f" alt="Streak" height="170" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsharma81181&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=2EA043" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsharma81181&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=1a7f4f" alt="Top languages" height="150" />
-</picture>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilsharma81181&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilsharma81181/nikhilsharma81181/output/github-snake-dark.svg" />
