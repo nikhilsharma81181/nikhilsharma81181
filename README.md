@@ -174,8 +174,8 @@ What is public here is side work. Every repo opens by stating what actually runs
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nikhilsharma81181&hide_border=true&theme=github-dark&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" />
-  <img src="https://streak-stats.demolab.com?user=nikhilsharma81181&hide_border=true&theme=default&ring=1a7f4f&fire=1a7f4f&currStreakLabel=1a7f4f" alt="Streak" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nikhilsharma81181&hide_border=true&disable_animations=true&theme=github-dark&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" />
+  <img src="https://streak-stats.demolab.com?user=nikhilsharma81181&hide_border=true&disable_animations=true&theme=default&ring=1a7f4f&fire=1a7f4f&currStreakLabel=1a7f4f" alt="Streak" height="170" />
 </picture>
 
 <picture>
